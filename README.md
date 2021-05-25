@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ianjwhitehouse
+- 👀 I’m interested in bitcoin, blockchain and fintech
+- 🌱 I’m currently studying computer science and finance at American University
+- 💞️ I’m looking to collaborate on fintech solutions
+- 📫 How to reach me discord at ianw#3719
