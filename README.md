@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ianjwhitehouse
-- 👀 I’m interested in bitcoin, blockchain and fintech
-- 🌱 I’m currently studying computer science and finance at American University
-- 💞️ I’m looking to collaborate on fintech solutions
-- 📫 How to reach me discord at ianw#3719
+- 👀 I’m interested in machine learning, blockchain and fintech
+- 🌱 I’m currently studying computer science at American University and have completed my minor in Mathematics
+- ✏️ I study how autoencoders and adversarial models can be used for anomaly detection with Professor Roberto Corizzo
