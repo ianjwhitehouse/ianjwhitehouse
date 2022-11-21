@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ianjwhitehouse
 - 👀 I’m interested in machine learning, blockchain and fintech
 - 🌱 I’m currently studying computer science at American University and have completed my minor in Mathematics
-- ✏️ I study how autoencoders and adversarial models can be used for anomaly detection with Professor Roberto Corizzo
+- ✏️ I currently study how autoencoders and adversarial models can be used for anomaly detection with Professor Roberto Corizzo
+- 📈 I built https://www.targeting-you.com/ with my friends
